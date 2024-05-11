@@ -1,0 +1,24 @@
+<svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_2091_20718)">
+<rect x="2" y="2" width="80" height="80" rx="20" fill="url(#paint0_linear_2091_20718)" fill-opacity="0.1"/>
+<rect x="1" y="1" width="82" height="82" rx="21" stroke="url(#paint1_radial_2091_20718)" stroke-width="2"/>
+</g>
+<path d="M50.003 31.7588C46.538 31.7588 45.0737 33.4122 42.6605 33.4122C40.1864 33.4122 38.2992 31.7708 35.2965 31.7708C32.3575 31.7708 29.2233 33.5652 27.233 36.622C24.4383 40.9326 24.9127 49.0511 29.439 55.9674C31.0581 58.4432 33.2203 61.2199 36.0562 61.25H36.1078C38.5725 61.25 39.3047 59.6361 42.6966 59.6171H42.7482C46.0894 59.6171 46.7597 61.2405 49.2141 61.2405H49.2657C52.1016 61.2104 54.3798 58.1339 55.9989 55.6675C57.1642 53.8937 57.5973 53.0034 58.4911 50.9968C51.9435 48.5114 50.8916 39.2293 57.367 35.6707C55.3904 33.1957 52.6129 31.7622 49.9944 31.7622L50.003 31.7588Z" fill="white"/>
+<path d="M49.2397 22.752C47.1772 22.892 44.771 24.2052 43.3616 25.9196C42.0829 27.4734 41.031 29.7782 41.4435 32.0134H41.6085C43.8051 32.0134 46.0532 30.6909 47.3663 28.9962C48.6313 27.3831 49.5904 25.0972 49.2397 22.752Z" fill="white"/>
+<defs>
+<filter id="filter0_b_2091_20718" x="-42" y="-42" width="168" height="168" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="21"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2091_20718"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2091_20718" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2091_20718" x1="-34.2937" y1="11.7143" x2="51.3745" y2="68.7104" gradientUnits="userSpaceOnUse">
+<stop offset="0.0001" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white" stop-opacity="0.39"/>
+</linearGradient>
+<radialGradient id="paint1_radial_2091_20718" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(42 42) rotate(-132.581) scale(75.4327 58.5175)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

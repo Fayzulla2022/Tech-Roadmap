@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1170px) {
+    .vertical-timeline--two-columns .vertical-timeline-element-icon {
+        width: 20px !important;
+        height: 20px !important;
+        left: 50% !important;
+        margin-left: -10px !important;
+    }
+  }
+@media screen and (max-height:1150px) {
+    .authPage .rightSide .holder .stickBottom{
+        position: unset;
+        transform: none;
+        width: 100%;
+    }
+    .authPage .rightSide .holder .stickBottom .gap-md-3{
+        margin-top: 20px;
+        column-gap: 10px !important;
+    }
+}
+@media screen and (max-width:992px) {
+    .timelineLine{
+        width: 100%;
+    }
+    .navbar li a{
+        text-align: left;
+    }
+    .navbar-nav{
+        gap: 10px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:767px) {
+    .authPage .rightSide .holder{
+        max-width: 100%;
+    }
+    .authPage .rightSide{
+        padding-top: 140px;
+    }
+    .authPageHeader{
+        max-width: 95%;
+    }
+    .authPage .rightSide .holder  .stickBottom{
+        position: unset;
+        transform: none;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:575px) {
+    .text svg{
+        width: 100%;
+    }
+}

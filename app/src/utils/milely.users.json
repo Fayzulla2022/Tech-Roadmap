@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "663b811e16147612f5a4057b"
+    },
+    "name": "Fayzulla",
+    "email": "fayzullaozotov@gmail.com",
+    "password": "$2a$10$fOyb/64aRUZRtqD8kWAwcO3a/TUJ1wVL5OLjx.vabzEEyA1eHN3q2",
+    "active": true,
+    "favourites": [],
+    "level": "Junior Level",
+    "tags": "TypeScript,CSS,React.js,Vue.js,Node.js,Back-End development,Express.js",
+    "roadmaps": [
+      {
+        "id": "5ngvt7qg1CC",
+        "title": "Modern PHP Development",
+        "courses": 4,
+        "done": [
+          {
+            "id": 1,
+            "stage": "Stage 1: JavaScript"
+          },
+          {
+            "id": 31,
+            "stage": "Stage 3: Angular"
+          }
+        ],
+        "skipped": [
+          {
+            "id": 42,
+            "stage": "Stage 4: VueJS"
+          }
+        ],
+        "inprogress": [
+          {
+            "id": 2,
+            "stage": "Stage 2: ReactJS"
+          }
+        ]
+      },
+      {
+        "id": "5ngvt7qg1m",
+        "title": "Python for Automation",
+        "courses": 4,
+        "done": [
+          {
+            "id": 1,
+            "stage": "Stage 1: HTML"
+          },
+          {
+            "id": 31,
+            "stage": "Stage 3: JavaScript"
+          }
+        ],
+        "skipped": [],
+        "inprogress": []
+      },
+      {
+        "id": "5ngvt7qg1t",
+        "title": "NodeJS Developer",
+        "courses": 4,
+        "done": [
+          {
+            "id": 1,
+            "stage": "Stage 1: JavaScript"
+          },
+          {
+            "id": 2,
+            "stage": "Stage 2: ReactJS"
+          }
+        ],
+        "skipped": [],
+        "inprogress": []
+      },
+      {
+        "id": "5ngvt7qg1CCDr",
+        "title": "Angular for Rich Interactive Web Apps",
+        "courses": 4,
+        "done": [
+          {
+            "id": 1,
+            "stage": "Stage 1: JavaScript"
+          }
+        ],
+        "skipped": [],
+        "inprogress": []
+      },
+      {
+        "id": "5ngvt7qg1CCDk",
+        "title": "TypeScript for Scalable Web Apps",
+        "courses": 4,
+        "done": [
+          {
+            "id": 1,
+            "stage": "Stage 1: JavaScript"
+          },
+          {
+            "id": 2,
+            "stage": "Stage 2: ReactJS"
+          },
+          {
+            "id": 31,
+            "stage": "Stage 3: Angular"
+          },
+          {
+            "id": 42,
+            "stage": "Stage 4: VueJS"
+          }
+        ],
+        "skipped": [],
+        "inprogress": []
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-08T13:41:50.878Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-08T15:41:39.905Z"
+    },
+    "__v": 0
+  }
+]
